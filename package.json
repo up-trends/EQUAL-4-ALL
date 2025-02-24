@@ -1,0 +1,26 @@
+{
+  "name": "equal-4-all",
+  "version": "1.0.0",
+  "description": "UP-TRENDS - EQUAL-4-ALL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/up-trends/equal-4-all.git"
+  },
+  "keywords": [
+    "equal-4-all",
+    "equal-4-all-packages",
+    "equal",
+    "4all",
+    "up-trends"
+  ],
+  "author": {
+    "name": "ERIKA-BOTECHIA",
+    "email": "botechiaerika@proton.me<OR>2401905-4@maua.br"
+  },
+  "homepage": "https://github.com/up-trend/equal-4-all#README.md",
+  "license": "MIT"
+}
